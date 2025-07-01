@@ -46,11 +46,5 @@ A fully responsive **Tours and Travel Agency** website built from scratch using 
 
 ---
 
-## 📈 Learnings
 
-- Mastered advanced **responsive design** using Flexbox and media queries.
-- Improved JavaScript skills, especially **DOM manipulation** and **event handling**.
-- Integrated Swiper.js for mobile-ready sliders.
-- Designed a modern and minimal **UI/UX** that works across all screen sizes.
 
----
